@@ -1,0 +1,28 @@
+* {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table>thead>tr>th {
+  background-color: #7C55A0;
+  color: #fff;
+  border: 1px #fff solid;
+
+}
+
+.table>tbody>tr>td {
+  color: #7C55A0;
+  border: 1px #7C55A0 solid;
+}
+
+.text-purple {
+  color: #7C55A0;
+}
+
+.bg-purple {
+  background-color: #7C55A0;
+}
+
+.text-16 {
+  font-size: 16px !important;
+}
